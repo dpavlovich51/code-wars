@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * https://www.codewars.com/kata/5263c6999e0f40dee200059d
  */
-public class ObservedPin {
+public class ObservedPinChatGPTSolution {
     public static List<String> getPINs(String observedPIN) {
         // Define the adjacent digits for each digit
         Map<Character, char[]> adjacentDigits = new HashMap<>();
