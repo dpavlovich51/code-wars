@@ -1,8 +1,8 @@
-package com.dpavlovich.codewars.codewars.luxsoft;
+package com.dpavlovich.codewars.codewars.onecompany;
 
 
-import com.dpavlovich.codewars.codewars.luxsoft.BranchCreator.Node;
-import com.dpavlovich.codewars.codewars.luxsoft.BranchCreator.NodeBuilder;
+import com.dpavlovich.codewars.codewars.onecompany.BranchCreator.Node;
+import com.dpavlovich.codewars.codewars.onecompany.BranchCreator.NodeBuilder;
 
 import java.util.ArrayList;
 import java.util.Collection;

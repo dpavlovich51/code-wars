@@ -1,4 +1,4 @@
-package com.dpavlovich.codewars.codewars.luxsoft;
+package com.dpavlovich.codewars.codewars.onecompany;
 
 public interface BranchCreator {
     void createNewBranches(NodeBuilder right, NodeBuilder left);
