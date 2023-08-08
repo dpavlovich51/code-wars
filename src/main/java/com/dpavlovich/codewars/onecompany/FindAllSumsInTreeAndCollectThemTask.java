@@ -1,8 +1,8 @@
-package com.dpavlovich.codewars.codewars.onecompany;
+package com.dpavlovich.codewars.onecompany;
 
 
-import com.dpavlovich.codewars.codewars.onecompany.BranchCreator.Node;
-import com.dpavlovich.codewars.codewars.onecompany.BranchCreator.NodeBuilder;
+import com.dpavlovich.codewars.onecompany.BranchCreator.Node;
+import com.dpavlovich.codewars.onecompany.BranchCreator.NodeBuilder;
 
 import java.util.ArrayList;
 import java.util.Collection;
